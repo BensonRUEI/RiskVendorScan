@@ -1,0 +1,24 @@
+# 只要 vendor 命中以下關鍵字就列入清單（大小寫不敏感）
+# 支援 LIKE 語法：% 任意字串、_ 任一字元
+# 以 # 開頭的行為注釋，空行自動略過
+# 注意：關鍵字不分大小寫，TP-LINK / tp-link / Tp-Link 效果相同
+
+Xiaomi
+Hikvision
+Hangzhou
+MERCUSYS
+Netis
+SHENZHEN
+Tenda
+TP-LINK
+Zhuhai
+Zioncom
+DJI
+Dahua
+ZTE
+TOTOLINK
+Nubia
+Hisense
+Foscam
+Hytera
+H3C

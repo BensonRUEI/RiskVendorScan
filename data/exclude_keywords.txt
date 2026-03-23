@@ -1,0 +1,10 @@
+# vendor 命中以下關鍵字則排除（大小寫不敏感）
+# 支援 LIKE 語法：% 任意字串、_ 任一字元
+# 以 # 開頭的行為注釋，空行自動略過
+# 注意：關鍵字不分大小寫，Cisco / cisco / CISCO 效果相同
+
+# %test%
+# example_%
+
+cisco
+aruba
