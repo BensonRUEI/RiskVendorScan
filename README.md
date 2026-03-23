@@ -137,13 +137,3 @@ python mac_oui_lookup.py
 ```bash
 python getIEEEOUI.py
 ```
-
----
-
-## .gitignore 建議
-
-```gitignore
-arptable.csv
-data/
-output/
-```
